@@ -1,0 +1,7 @@
+userName
+galaxybcbc
+
+pass
+OAEvfVTX8EbzZnxe
+
+mongodb+srv://galaxybcbc:<OAEvfVTX8EbzZnxe>@projetopos.cfljm5a.mongodb.net/
