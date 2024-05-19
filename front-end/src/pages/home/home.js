@@ -1,10 +1,18 @@
 import React from 'react'
-import "./home.scss"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import Navbar from '../../components/Navbar/Navbar'
+import "./Home.scss"
 
-function home() {
+function Home() {
   return (
-    <h1><p>home</p></h1>
+    <div>
+      <Navbar />
+        <h1><p>home</p></h1>
+        <FontAwesomeIcon icon="fa-solid fa-chart-line" />
+        <FontAwesomeIcon icon="fa-solid fa-chart-line" />
+
+    </div>
   )
 }
 
-export default home
+export default Home
